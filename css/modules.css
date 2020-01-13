@@ -1,4 +1,4 @@
-.main >p {
+.main > p {
 
 }
 
@@ -7,37 +7,46 @@
 }
 
 #one {
-    background-color: aqua;
+    height: 75px;
+    width: 480px;
 }
 
 #two {
-    background-color: beige;
+    height: 150px;
+    width: 480px;
 }
 
 #three {
-    background-color: burlywood;
+    height: 125px;
+    width: 480px;
 }
 
 #four {
-    background-color: cadetblue;
+    height: 125px;
+    width: 480px;
 }
 
 #five {
-    background-color: coral;
+    height: 250px;
+    width: 240px;
 }
 
 #six {
-    background-color: darkgoldenrod;
+    height: 250px;
+    width: 240px;
 }
 
 #seven {
-    background-color: darkgreen;
+    height: 250px;
+    width: 240px;
 }
 
 #eight {
-    background-color: darkkhaki;
+    height: 250px;
+    width: 240px;
 }
 
 #nine {
-    background-color: darkorchid;
+    height: 80px;
+    width: 480px;
 }
