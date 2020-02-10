@@ -1,6 +1,6 @@
-# 301-lab-4a
+# 301-lab-01
 **Purpose:** 
-Code Fellows 301 lab 4a, Responsive Web Design using Flexbox or Grid.
+Initial repo for lab 01 - RWD, mobile first
 
 **Author/Team:** Thomas Sherer
 **Last Updated:** 2020-01-11
@@ -14,7 +14,8 @@ OR
 `live-server` from the root of the project
 ​
 ### Resources
-<!-- **WHAT** courtesy of **SOURCE** -->
+
+**WHAT** courtesy of **SOURCE** -->
 
 ### Footnotes
 
