@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     height: 100%;
     width: 100%;
@@ -5,4 +9,9 @@ body {
     padding:0;
     background-color: antiquewhite;
 }
+
+p {
+    text-align: center;
+}
+
 

@@ -1,6 +1,6 @@
-# 301-lab-01
+# 301-lab-04a
 **Purpose:** 
-Initial repo for lab 01 - RWD, mobile first
+Re-styling of repo for lab 01 - RWD, using Flexbox or Grid.
 
 **Author/Team:** Thomas Sherer
 **Last Updated:** 2020-01-11
@@ -15,6 +15,8 @@ OR
 ​
 ### Resources
 
+Huge shout-outs to Cory Henderson and Adreinne Easton for their assistance with SMACSS in lab 01, and 
+to Cory Henderson for assistance with RWD-Mobile, and to Jin Kim and Allyson Reyes for their assistance with RWD-Desktop!
 **WHAT** courtesy of **SOURCE** -->
 
 ### Footnotes
